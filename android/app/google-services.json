@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254181075117",
+    "project_id": "doan-736c6",
+    "storage_bucket": "doan-736c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254181075117:android:6ce98ccdf0b85a92283e24",
+        "android_client_info": {
+          "package_name": "com.doan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZJ95Y0016oWhE5637xXaKbDVIRDI8l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
